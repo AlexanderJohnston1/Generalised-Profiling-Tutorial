@@ -3,4 +3,4 @@ This repository contains Jupyter Notebooks that illustrate the use of generalise
 
 The folder "Convergence demonstrations" shows the convergence properties of the generalised profiling method for each of the models. These codes were written by Alexander Johnston and James S. Bennett. 
 
-The codes are written in Julia and were used to generate all figures and results in the paper "Solution-free parameter inference for differential equation models".
+The codes are written in Julia and were used to generate the figures and results in the paper "Solution-free parameter inference for differential equation models".
