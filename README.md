@@ -5,4 +5,6 @@ The folder "Markov Chain Monte Carlo" contains codes used to analyse the same mo
 
 The folder "Convergence demonstrations" shows the convergence properties of the generalised profiling method for each of the models. These codes were written by Alexander Johnston and James S. Bennett. 
 
+The file "Confidence intervals" shows the code used to determine appropriate values of the generalised log-likelihood function to generate confidence sets at a specific confidence level.
+
 All codes are written in Julia and were used to generate the figures and results in the paper "Solution-free parameter inference for differential equation models".
